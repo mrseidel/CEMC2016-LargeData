@@ -1,0 +1,1 @@
+Ensure actors.list and actresses.list are both in this directory before starting

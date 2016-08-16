@@ -1,0 +1,205 @@
+1	 Greece (GRE)	Alexandros Nikolaidis[11]	Taekwondo
+2	 Afghanistan (AFG)	Nesar Ahmad Bahave[12]	Taekwondo
+3	 Albania (ALB)	Romela Begaj[13]	Weightlifting
+4	 Algeria (ALG)	Abdelhafid Benchabla[14]	Boxing
+5	 American Samoa (ASA)	Ching Maou Wei[15]	Swimming
+6	 Andorra (AND)	Joan Tomàs Roca[16]	Shooting
+7	 Angola (ANG)	Antonia Moreira[17]	Judo
+8	 Antigua and Barbuda (ANT)	Daniel Bailey[18]	Athletics
+9	 Argentina (ARG)	Luciana Aymar[19]	Field hockey
+10	 Armenia (ARM)	Arman Yeremyan[12]	Taekwondo
+11	 Aruba (ARU)	Jemal Le Grand[20]	Swimming
+12	 Australia (AUS)	Lauren Jackson[21]	Basketball
+13	 Austria (AUT)	Markus Rogan[22]	Swimming
+14	 Azerbaijan (AZE)	Elnur Mammadli[23]	Judo
+15	 Bahamas (BAH)	Chris Brown[24]	Athletics
+16	 Bahrain (BRN)	Azza Al Qasmi[25]	Shooting
+17	 Bangladesh (BAN)	Mahfizur Rahman Sagor[26]	Swimming
+18	 Barbados (BAR)	Ryan Brathwaite[27]	Athletics
+19	 Belarus (BLR)	Max Mirnyi[28]	Tennis
+20	 Belgium (BEL)	Tia Hellebaut[29]	Athletics
+21	 Belize (BIZ)	Kenneth Medwood[12]	Athletics
+22	 Benin (BEN)	Jacob Gnahoui[30]	Judo
+23	 Bermuda (BER)	Zander Kirkland[31]	Sailing
+24	 Bhutan (BHU)	Sherab Zam[12]	Archery
+25	 Bolivia (BOL)	Karen Torrez[32]	Swimming
+26	 Bosnia and Herzegovina (BIH)	Amel Mekic[33]	Judo
+27	 Botswana (BOT)	Amantle Montsho[34]	Athletics
+28	 Brazil (BRA)	Rodrigo Pessoa[35]	Equestrian
+29	 British Virgin Islands (IVB)	Tahesia Harrigan[36]	Athletics
+30	 Brunei Darussalam (BRU)	Maziah Mahusin[37]	Athletics
+31	 Bulgaria (BUL)	Yordan Yovchev[38]	Gymnastics
+32	 Burkina Faso (BUR)	Severine Nebie[12]	Judo
+33	 Burundi (BDI)	Diane Nukuri[39]	Athletics
+34	 Cambodia (CAM)	Sorn Davin[40]	Taekwondo
+35	 Cameroon (CMR)	Annabelle Ali[41]	Wrestling
+36	 Canada (CAN)	Simon Whitfield[42]	Triathlon
+37	 Cape Verde (CPV)	Adysângela Moniz[12]	Judo
+38	 Cayman Islands (CAY)	Brett Fraser[43]	Swimming
+39	 Central African Republic (CAF)	David Boui[12]	Taekwondo
+40	 Chad (CHA)	Carine Ngarlemdana[44]	Judo
+41	 Chile (CHI)	Denisse van Lamoen[45]	Archery
+42	 China People's Republic of (CHN)	Yi Jianlian[46]	Basketball
+43	 Colombia (COL)	Mariana Pajón[47]	Cycling
+44	 Comoros (COM)	Ahamada Feta[12]	Athletics
+45	 Congo (CGO)	Lorene Bazolo[12]	Athletics
+46	 Cook Islands (COK)	Helema Williams[48]	Sailing
+47	 Costa Rica (CRC)	Gabriela Traña[49]	Athletics
+48	 Côte d'Ivoire (CIV)	Ben Youssef Meite [12]	Athletics
+49	 Croatia (CRO)	Venio Losert[50]	Handball
+50	 Cuba (CUB)	Mijaín López[51]	Wrestling
+51	 Cyprus (CYP)	Marcos Baghdatis[52]	Tennis
+52	 Czech Republic (CZE)	Petr Koukal[53]	Badminton
+53	 Democratic People's Republic of Korea (PRK)	Pak Song-Chol[12]	Athletics
+54	 Democratic Republic of the Congo (COD)	Ilunga Mande Zatara[54]	Athletics
+55	 Denmark (DEN)	Kim Wraae Knudsen[55]	Canoeing
+56	 Djibouti (DJI)	Zourah Ali[12]	Athletics
+57	 Dominica (DMA)	Erison Hurtault[56]	Athletics
+58	 Dominican Republic (DOM)	Gabriel Mercedes[57]	Taekwondo
+59	 Ecuador (ECU)	César de Cesare[58]	Canoeing
+60	 Egypt (EGY)	Hesham Mesbah[59]	Judo
+61	 El Salvador (ESA)	Evelyn García[60]	Cycling
+62	 Equatorial Guinea (GEQ)	Bibiana Olama[12]	Athletics
+63	 Eritrea (ERI)	Weynay Ghebresilasie[12]	Athletics
+64	 Estonia (EST)	Aleksander Tammert[61]	Athletics
+65	 Ethiopia (ETH)	Yanet Seyoum[12]	Swimming
+66	 Fiji (FIJ)	Josateki Naulu[62]	Judo
+67	 Finland (FIN)	Hanna-Maria Seppälä[63]	Swimming
+68	 Former Yugoslav Republic of Macedonia (MKD)	Marko Blaževski[64]	Swimming
+69	 France (FRA)	Laura Flessel-Colovic[65]	Fencing
+70	 Gabon (GAB)	Ruddy Zang Milama[66]	Athletics
+71	 Gambia (GAM)	Suwaibou Sanneh[12]	Athletics
+72	 Georgia (GEO)	Nino Salukvadze[67]	Shooting
+73	 Germany (GER)	Natascha Keller[68]	Field hockey
+74	 Ghana (GHA)	Maxwell Amponsah[69]	Boxing
+75	 Grenada (GRN)	Kirani James[12]	Athletics
+76	 Guam (GUM)	Maria Dunn[12]	Wrestling
+77	 Guatemala (GUA)	Juan Ignacio Maegli[70]	Sailing
+78	 Guinea (GUI)	Facinet Keita[12]	Judo
+79	 Guinea-Bissau (GBS)	Augusto Midana[12]	Wrestling
+80	 Guyana (GUY)	Winston George[71]	Athletics
+81	 Haiti (HAI)	Linouse Desravine[72]	Judo
+82	 Honduras (HON)	Ronald Bennett[73]	Athletics
+83	 Hong Kong China (HKG)	Lee Wai Sze[74]	Cycling
+84	 Hungary (HUN)	Péter Biros[75]	Water polo
+85	 Iceland (ISL)	Ásdís Hjálmsdóttir[76]	Athletics
+86	 Independent Olympic Athletes (IOA)[n 1]	Brooklyn Kerlin[12]	LOCOG/Games Maker
+87	 India (IND)[n 2]	Sushil Kumar[78]	Wrestling
+88	 Indonesia (INA)	I Gede Siman Sudartawa[79]	Swimming
+89	 Islamic Republic of Iran (IRI)	Ali Mazaheri[80]	Boxing
+90	 Iraq (IRQ)	Dana Hussain[81]	Athletics
+91	 Ireland (IRL)	Katie Taylor[82]	Boxing
+92	 Israel (ISR)	Shahar Tzuberi[83]	Sailing
+93	 Italy (ITA)	Valentina Vezzali[84]	Fencing
+94	 Jamaica (JAM)	Usain Bolt[85]	Athletics
+95	 Japan (JPN)	Saori Yoshida[86]	Wrestling
+96	 Jordan (JOR)	Nadin Dawani[12]	Taekwondo
+97	 Kazakhstan (KAZ)	Nurmakhan Tinaliyev[87]	Wrestling
+98	 Kenya (KEN)	Jason Dunford[88]	Swimming
+99	 Kiribati (KIR)	David Katoatau[12]	Weightlifting
+100	 Korea Republic Of (KOR)	Yoon Kyung-Shin[89]	Handball
+101	 Kuwait (KUW)	Fehaid Al-Deehani[12]	Shooting
+102	 Kyrgyzstan (KGZ)	Chingiz Mamedov[12]	Judo
+103	 Lao People's Democratic Republic (LAO)	Kilakone Siphonexay[12]	Athletics
+104	 Latvia (LAT)	Martinš Plavinš[90]	Beach volleyball
+105	 Lebanon (LIB)	Andrea Paoli[12]	Taekwondo
+106	 Lesotho (LES)	Mamorallo Tjoka[12]	Athletics
+107	 Liberia (LBR)	Phobay Kutu-Akoi[91]	Athletics
+108	 Libya (LBA)	Sofyan El Gidi[20]	Swimming
+109	 Liechtenstein (LIE)	Stephanie Vogt[92]	Tennis
+110	 Lithuania (LTU)	Virgilijus Alekna[93]	Athletics
+111	 Luxembourg (LUX)	Marie Muller[94]	Judo
+112	 Madagascar (MAD)	Fetra Ratsimiziva[95]	Judo
+113	 Malawi (MAW)	Mike Tebulo[12]	Athletics
+114	 Malaysia (MAS)	Pandelela Rinong[96]	Diving
+115	 Maldives (MDV)	Mohamed Ajfan Rasheed[12]	Badminton
+116	 Mali (MLI)	Rahamatou Drame[97]	Athletics
+117	 Malta (MLT)	William Chetcuti[98]	Shooting
+118	 Marshall Islands (MHL)	Haley Nemra[12]	Athletics
+119	 Mauritania (MTN)	Jidou El Moctar[12]	Athletics
+120	 Mauritius (MRI)	Natacha Rigobert[99]	Beach volleyball
+121	 Mexico (MEX)	María Espinoza[100]	Taekwondo
+122	 Micronesia Federated States of (FSM)	Manuel Minginfel[12]	Weightlifting
+123	 Moldova Republic of (MDA)	Dan Olaru[101]	Archery
+124	 Monaco (MON)	Angelique Trinquier[102]	Swimming
+125	 Mongolia (MGL)	Ser-Od Bat-Ochir[103]	Athletics
+126	 Montenegro (MNE)	Srdan Mrvaljevic[104]	Judo
+127	 Morocco (MAR)	Wiam Dislam[105]	Taekwondo
+128	 Mozambique (MOZ)	Kurt Couto[106]	Athletics
+129	 Myanmar (MYA)	Zaw Win Thet[12]	Athletics
+130	 Namibia (NAM)	Gaby Ahrens[107]	Shooting
+131	 Nauru (NRU)	Itte Detenamo[12]	Weightlifting
+132	 Nepal (NEP)	Prasiddha Jung Shah[108]	Swimming
+133	 Netherlands (NED)	Dorian van Rijsselberghe[109]	Sailing
+134	 New Zealand (NZL)	Nick Willis[110]	Athletics
+135	 Nicaragua (NCA)	Osmar Bravo[12]	Boxing
+136	 Niger (NIG)	Moustapha Hima[12]	Boxing
+137	 Nigeria (NGR)	Sinivie Boltic[111]	Wrestling
+138	 Norway (NOR)	Mira Verås Larsen[112]	Canoeing
+139	 Oman (OMA)	Ahmed Al-Hatmi[113]	Shooting
+140	 Pakistan (PAK)	Sohail Abbas[114]	Field hockey
+141	 Palau (PLW)	Rodman Teltull[115]	Athletics
+142	 Palestine (PLE)	Maher Abu Remeleh[12]	Judo
+143	 Panama (PAN)	Irving Saladino[116]	Athletics
+144	 Papua New Guinea (PNG)	Toea Wisil[117]	Athletics
+145	 Paraguay (PAR)	Ben Hockin[118]	Swimming
+146	 Peru (PER)	Gladys Tejeda[119]	Athletics
+147	 Philippines (PHI)	Hidilyn Diaz[120]	Weightlifting
+148	 Poland (POL)	Agnieszka Radwanska[121]	Tennis
+149	 Portugal (POR)	Telma Monteiro[122]	Judo
+150	 Puerto Rico (PUR)	Javier Culson[123]	Athletics
+151	 Qatar (QAT)	Bahiya Al-Hamad[124]	Shooting
+152	 Romania (ROU)	Horia Tecau[125]	Tennis
+153	 Russian Federation (RUS)	Maria Sharapova[126]	Tennis
+154	 Rwanda (RWA)	Adrien Niyonshuti[127]	Cycling
+155	 Saint Kitts and Nevis (SKN)	Kim Collins[12]	Athletics
+156	 Saint Lucia (LCA)	Levern Spencer[12]	Athletics
+157	 Saint Vincent and the Grenadines (VIN)	Kineke Alexander[39]	Athletics
+158	 Samoa (SAM)	Ele Opeloge[128]	Weightlifting
+159	 San Marino (SMR)	Alessandra Perilli[129]	Shooting
+160	 São Tomé and Príncipe (STP)	Lecabela Quaresma[12]	Athletics
+161	 Saudi Arabia (KSA)	Sultan Mubarak Al-Dawoodi[12]	Athletics
+162	 Senegal (SEN)	Hortense Diédhiou[130]	Judo
+163	 Serbia (SRB)	Novak Djokovic[131]	Tennis
+164	 Seychelles (SEY)	Dominic Dugasse[132]	Judo
+165	 Sierra Leone (SLE)	Ola Sesay[12]	Athletics
+166	 Singapore (SIN)	Feng Tianwei[133]	Table tennis
+167	 Slovakia (SVK)	Jozef Gönci[134]	Shooting
+168	 Slovenia (SLO)	Peter Kauzer[135]	Canoeing
+169	 Solomon Islands (SOL)	Jenly Tegu Wini[136]	Weightlifting
+170	 Somalia (SOM)	Zamzam Mohamed Farah[12]	Athletics
+171	 South Africa (RSA)	Caster Semenya[137]	Athletics
+172	 Spain (ESP)	Pau Gasol[n 3][139]	Basketball
+173	 Sri Lanka (SRI)	Niluka Karunaratne[140]	Badminton
+174	 Sudan (SUD)	Ismail Ahmed Ismail[12]	Athletics
+175	 Suriname (SUR)	Chinyere Pigot[141]	Swimming
+176	 Swaziland (SWZ)	Luke Hall[12]	Swimming
+177	 Sweden (SWE)	Rolf-Göran Bengtsson[142]	Equestrian
+178	 Switzerland (SUI)	Stanislas Wawrinka[n 4][144]	Tennis
+179	 Syrian Arab Republic (SYR)	Majed Aldin Ghazal[145]	Athletics
+180	 Taiwan Chinese (TPE)	Chen Shih-chieh[12]	Weightlifting
+181	 Tajikistan (TJK)	Mavzuna Chorieva[146]	Boxing
+182	 Tanzania United Republic of (TAN)	Zakia Mrisho Mohamed[12]	Athletics
+183	 Thailand (THA)	Nuttapong Ketin[12]	Swimming
+184	 Timor-Leste (TLS)	Augusto Ramos Soares[12]	Athletics
+185	 Togo (TOG)	Benjamin Boukpeti[147]	Canoeing
+186	 Tonga (TGA)	Amini Fonua[148]	Swimming
+187	 Trinidad and Tobago (TRI)	Marc Burns[149]	Athletics
+188	 Tunisia (TUN)	Heykel Megannem[150]	Handball
+189	 Turkey (TUR)	Neslihan Demir Darnel[151]	Volleyball
+190	 Turkmenistan (TKM)	Serdar Hudayberdiyev[39]	Boxing
+191	 Tuvalu (TUV)	Asenate Manoa[152]	Athletics
+192	 Uganda (UGA)	Ganzi Mugula[153]	Swimming
+193	 Ukraine (UKR)	Roman Gontiuk[154]	Judo
+194	 United Arab Emirates (UAE)	Saeed Al Maktoum[155]	Shooting
+195	 United States of America (USA)	Mariel Zagunis[156]	Fencing
+196	 Uruguay (URU)	Rodolfo Collazo[157]	Rowing
+197	 Uzbekistan (UZB)	Elshod Rasulov[158]	Boxing
+198	 Vanuatu (VAN)	Anolyn Lulu[159]	Table tennis
+199	 Venezuela (VEN)	Fabiola Ramos[160]	Table tennis
+200	 Vietnam (VIE)	Nguy?n Ti?n Nh?t[161]	Fencing
+201	 Virgin Islands (ISV)	Tabarie Henry[162]	Athletics
+202	 Yemen (YEM)	Tameem Al-Kubati[12]	Taekwondo
+203	 Zambia (ZAM)	Prince Mumba[163]	Athletics
+204	 Zimbabwe (ZIM)	Kirsty Coventry[164]	Swimming
+205	 Great Britain (GBR)	Chris Hoy[165]	Cycling
